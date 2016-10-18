@@ -1,3 +1,4 @@
 #!/bin/sh
 
 /usr/bin/invoke_app "$@" -t helloworld -C rappture
+
